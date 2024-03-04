@@ -1,0 +1,6 @@
+Delay Type,Time Taken_MapReduce,Time Taken_Spark
+CarrierDelay,15.8,0.03219738006591794
+LateAircraftDelay,3.6,0.01915326118469232
+NASDelay,3.8,0.02108740806579586
+SecurityDelay,3.2,0.0194803714752197
+WeatherDelay,3.2,0.0204818248748779
