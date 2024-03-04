@@ -1,8 +1,5 @@
 USE default;
 
--- Set the number of reducers to 1
-SET mapreduce.job.reduces = 1;
-
 --- Create external table for airline delay fights
 CREATE EXTERNAL TABLE IF NOT EXISTS airline_delay_flights(
      `No` INT,
